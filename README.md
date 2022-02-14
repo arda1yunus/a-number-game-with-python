@@ -1,2 +1,2 @@
 # a-number-game-with-python
-nothing      ¯\_(ツ)_/¯
+¯\_(ツ)_/¯ __nothing
