@@ -34,7 +34,9 @@ if player != answer:
 
 if player == answer:
     print('congratulations! Correct answer')
+    time.sleep(5)
 
 
 if chance == 0:
     print('Sorry. All your rights are gone. You Lose :(')
+    time.sleep(5)
